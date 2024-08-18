@@ -22,8 +22,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Carollo&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-# Contact me
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-carollo/) 
 
