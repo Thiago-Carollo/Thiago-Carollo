@@ -18,25 +18,15 @@
 
 # 📊 GitHub Stats:
 <div align="right" style="margin-bottom: 20px;">
-  <h2 align="right"> 
     <a href="https://github.com/Thiago-Carollo/convoychat">
       <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Carollo&layout=compact&langs_count=8&card_width=320&theme=dark"/>
       <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=Thiago-Carollo&show_icons=true&theme=dark"/>
     </a>
-  </h2>
 </div>
 
 ## 🌐 Socials
-<div align="left">
-  <a href="https://linkedin.com/in/thiago-carollo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://mail.google.com/mail/tcarollo03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-carollo/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/tcarollo03@gmail.com)
 
 
  
