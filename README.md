@@ -15,7 +15,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=autocad,au,ps,pr,discord,gmail,linkedin)](https://skillicons)
 
-# My GitHub Stats
+# 📊 GitHub Stats:
 ![Thiago-CarolloGitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-Carollo&show_icons=true&theme=dark)
 
 <a href="https://github.com/Thiago-Carollo/convoychat">
@@ -23,3 +23,8 @@
 </a>
 
 # Contact me
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-carollo/) 
+
+
