@@ -28,7 +28,7 @@
 
 <div align="left">
   <h3 align="left"> 
-    <a herf=## 🌐 Socials
+    <a herf=>## 🌐 Socials</h3>
   </h3>
 </div>
   
