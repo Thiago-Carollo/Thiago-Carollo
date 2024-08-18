@@ -2,18 +2,19 @@
 <h1 align="center">Hi 👋, I'm Thiago Carollo</h1>
 </div>
 
-# About me
+# 💫 About Me:
   My skills consist of:
   - 👨‍💻Programming
   - 💻 Hardware Maintenance
   - 🎞 Video, audio and photography editing
   - 📄 Microsoft Office: Word – PowerPoint -Excel
 
-# Stack
+# 💻 Tech Stack:
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp,bootstrap,mysql)](https://skillicons.dev)
   
   [![My Skills](https://skillicons.dev/icons?i=autocad,au,ps,pr,discord,gmail,linkedin)](https://skillicons)
+  
 
 # 📊 GitHub Stats:
 ![Thiago-CarolloGitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-Carollo&show_icons=true&theme=dark)
@@ -24,5 +25,4 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thiago-carollo/) 
-
 
