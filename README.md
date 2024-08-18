@@ -18,4 +18,8 @@
 # My GitHub Stats
 ![Thiago-CarolloGitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago-Carollo&show_icons=true&theme=dark)
 
+<a href="https://github.com/Thiago-Carollo/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Carollo&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 # Contact me
