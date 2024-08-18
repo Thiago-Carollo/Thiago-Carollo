@@ -19,12 +19,13 @@
 # 📊 GitHub Stats:
 
 <a href="https://github.com/Thiago-Carollo/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Carollo&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  
 </a>
 <div align="right">
 <h1 align="right"> 
   <a href="https://github.com/Thiago-Carollo/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=Thiago-Carollo&show_icons=true&theme=dark" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Carollo&layout=compact&langs_count=8&card_width=320&theme=dark"/>
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api?username=Thiago-Carollo&show_icons=true&theme=dark"/>
   </a>
 </h1>
 </div>
