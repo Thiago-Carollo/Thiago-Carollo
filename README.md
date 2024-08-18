@@ -7,5 +7,7 @@
   - 👨‍💻Programming
   - 💻 Hardware Maintenance
   - 🎞 Video, audio and photography editing
-  - 📄 Microsoft Office: Word – PowerPoint. -Excel
+  - 📄 Microsoft Office: Word – PowerPoint -Excel
 
+# Stack
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,c++,au,autocad,bootstrap,ps,mysqlpr )](https://skillicons.dev)
