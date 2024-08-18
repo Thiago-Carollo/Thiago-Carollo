@@ -4,8 +4,8 @@
 
 # About me
   My skills consist of:
+  - 👨‍💻Programming
   - 💻 Hardware Maintenance
   - 🎞 Video, audio and photography editing
-  - ✏ Adobe Audition, Photoshop, Premiere Pro
   - 📄 Microsoft Office: Word – PowerPoint. -Excel
-  - 👨‍💻Programming: Python, C++ (object-oriented), HTML/CSS, MySQL
+
