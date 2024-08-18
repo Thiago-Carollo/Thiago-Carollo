@@ -16,4 +16,4 @@
   
   Other skills
   
-  [![My Skills](https://skillicons.dev/icons?i=au,autocad,ps,pr)](https://skillicons)
+  [![My Skills](https://skillicons.dev/icons?i=autocad,au,ps,pr)](https://skillicons)
