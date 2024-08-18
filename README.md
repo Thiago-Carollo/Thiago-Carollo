@@ -16,8 +16,15 @@
   [![My Skills](https://skillicons.dev/icons?i=autocad,au,ps,pr,discord,gmail,linkedin)](https://skillicons)
   
 # 📊 GitHub Stats:
+<a href="https://github.com/Thiago-Carollo/convoychat">
 <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-Carollo&layout=compact&langs_count=8&card_width=320&theme=dark"/></a>
 
+![](https://github-readme-stats.vercel.app/api?username=Thiago-Carollo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Thiago-Carollo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-Carollo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+[![](https://visitcount.itsvg.in/api?id=Thiago-Carollo&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 🌐 Socials:
 
