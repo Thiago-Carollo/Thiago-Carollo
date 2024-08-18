@@ -13,5 +13,7 @@
   Programmin
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp,au,autocad,bootstrap,ps,mysql,pr)](https://skillicons.dev)
+  
   Other skills
-  [![My Skills](https://skillicons.dev/icons?i=au,autocad,ps,pr)](https://skillicons
+  
+  [![My Skills](https://skillicons.dev/icons?i=au,autocad,ps,pr)](https://skillicons)
