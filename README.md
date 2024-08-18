@@ -25,12 +25,15 @@
     </a>
   </h2>
 </div>
-
+## 🌐 Socials
 <div align="left">
-  <h3 align="left"> 
-    <a herf=>## 🌐 Socials</h3>
-  </h3>
-</div>
+  <a href="https://linkedin.com/in/thiago-carollo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mail.google.com/mail/tcarollo03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>>
   
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-carollo/)
