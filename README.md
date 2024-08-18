@@ -10,4 +10,6 @@
   - 📄 Microsoft Office: Word – PowerPoint -Excel
 
 # Stack
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp,au,autocad,bootstrap,ps,mysqlpr )](https://skillicons.dev)
+  Programmin
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp,au,autocad,bootstrap,ps,mysqlpr,pr )](https://skillicons.dev)
+  
