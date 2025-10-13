@@ -5,7 +5,6 @@
 # 💫 About Me:
   My skills consist of:
   - 👨‍💻 Programming
-  - 📻 Radioperator
   - 💻 Hardware Maintenance
   - 🎞 Video, audio and photography editing
   - 📄 Microsoft Office: Word – PowerPoint -Excel
