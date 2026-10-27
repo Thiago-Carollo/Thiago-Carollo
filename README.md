@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola 👋, soy Thiago Carollo</h1>
-  <h3>Estudiante de Ingeniería en Sistemas | Desarrollador de Software y Web</h3>
+  <h3>Estudiante de Ingeniería en Sistemas | Entusiasta de Linux y Desarrollo de Software</h3>
 
   <!-- Botones de idioma -->
   <a href="#-versión-en-español">
@@ -24,33 +24,33 @@
 ### 💫 Sobre mí
 
 - 🎓 **Educación:** Estudiante de Ingeniería en Sistemas de Información en **UTN-FRC** (Argentina).
-- 💻 **Enfoque:** Arquitectura de Software, Desarrollo Web, Algoritmos y Estructuras de Datos.
-- 🔭 **Actualmente trabajando en:** Proyectos web Full Stack utilizando Python, Django y JavaScript moderno.
-- 🌱 **Aprendiendo y mejorando:** Diseño avanzado de bases de datos, optimización backend y buenas prácticas de código.
-- ⚡ **Intereses:** Emulación de videojuegos retro, sistemas autoalojados (self-hosted) y soluciones tecnológicas.
+- 💻 **Enfoque:** Entorno Linux, Sistemas de Gestión de Archivos y Desarrollo de Software de Inventario/Stock.
+- 🎯 **Objetivo:** Diseñar y desarrollar aplicaciones prácticas para control de mercadería (comercios, kioscos, ferreterías) y optimización de flujos de trabajo.
+- 🌱 **Aprendiendo y mejorando:** Administración de sistemas Linux, comandos en terminal/bash, diseño de bases de datos relacionales y buenas prácticas de código.
+- ⚡ **Intereses:** Entornos Linux, gestión de datos, sistemas autoalojados (self-hosted) y soluciones informáticas para comercios.
 
 ---
 
 ### 💻 Tecnologías y Herramientas
 
-**Lenguajes**
+**Sistemas y Lenguajes**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Desarrollo Web y Base de Datos**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks y Herramientas**
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 <br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,bootstrap,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,py,js,cpp,html,css,mysql,git,github" />
   </a>
 </p>
 
@@ -77,33 +77,33 @@
 ### 💫 About Me
 
 - 🎓 **Education:** Information Systems Engineering Student at **UTN-FRC** (Argentina).
-- 💻 **Focus:** Software Architecture, Web Development, Algorithms & Data Structures.
-- 🔭 **Currently Working On:** Full-stack web projects using Python, Django, and modern JavaScript.
-- 🌱 **Learning & Improving:** Advanced database design, backend optimization, and clean code practices.
-- ⚡ **Interests:** Retro video game emulation, self-hosted systems, and technology solutions.
+- 💻 **Focus:** Linux Environments, File Management Systems, and Inventory/Stock Software Development.
+- 🎯 **Goal:** Designing and building practical software for retail inventory control (stores, hardware shops) and workflow optimization.
+- 🌱 **Learning & Improving:** Linux system administration, terminal/bash scripting, relational database design, and clean code practices.
+- ⚡ **Interests:** Linux environments, data management, self-hosted systems, and business management software solutions.
 
 ---
 
 ### 💻 Tech Stack
 
-**Languages**
+**Systems & Languages**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Web & Databases**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Tools**
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 <br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,cpp,html,css,bootstrap,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,py,js,cpp,html,css,mysql,git,github" />
   </a>
 </p>
 
