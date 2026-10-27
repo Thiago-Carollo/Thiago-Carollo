@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola 👋, soy Thiago Carollo</h1>
-  <h3>Estudiante de Ingeniería en Sistemas | Entusiasta de Linux y Desarrollo de Software</h3>
+  <h3>Desarrollador de Software & Web | Python & Linux</h3>
 
   <!-- Botones de idioma -->
   <a href="#-versión-en-español">
@@ -23,11 +23,10 @@
 
 ### 💫 Sobre mí
 
-- 🎓 **Educación:** Estudiante de Ingeniería en Sistemas de Información en **UTN-FRC** (Argentina).
-- 💻 **Enfoque:** Entorno Linux, Sistemas de Gestión de Archivos y Desarrollo de Software de Inventario/Stock.
-- 🎯 **Objetivo:** Diseñar y desarrollar aplicaciones prácticas para control de mercadería (comercios, kioscos, ferreterías) y optimización de flujos de trabajo.
-- 🌱 **Aprendiendo y mejorando:** Administración de sistemas Linux, comandos en terminal/bash, diseño de bases de datos relacionales y buenas prácticas de código.
-- ⚡ **Intereses:** Entornos Linux, gestión de datos, sistemas autoalojados (self-hosted) y soluciones informáticas para comercios.
+- 💻 **Enfoque:** Desarrollo de Software Backend en Python, Administración de Entornos Linux y Bases de Datos.
+- 🎯 **Objetivo:** Diseñar y construir aplicaciones prácticas para gestión de stock/inventario (comercios, kioscos, ferreterías) y herramientas de gestión de archivos.
+- 🌱 **Aprendiendo y mejorando:** Desarrollo web con Python (Django), scripts en Bash, diseño de bases de datos relacionales (SQL) y buenas prácticas de código.
+- ⚡ **Intereses:** Entornos Linux, automatización de tareas en terminal, sistemas de gestión comercial y soluciones informáticas.
 
 ---
 
@@ -76,11 +75,10 @@
 
 ### 💫 About Me
 
-- 🎓 **Education:** Information Systems Engineering Student at **UTN-FRC** (Argentina).
-- 💻 **Focus:** Linux Environments, File Management Systems, and Inventory/Stock Software Development.
-- 🎯 **Goal:** Designing and building practical software for retail inventory control (stores, hardware shops) and workflow optimization.
-- 🌱 **Learning & Improving:** Linux system administration, terminal/bash scripting, relational database design, and clean code practices.
-- ⚡ **Interests:** Linux environments, data management, self-hosted systems, and business management software solutions.
+- 💻 **Focus:** Python Backend Development, Linux Administration, and Database Management.
+- 🎯 **Goal:** Designing and building practical applications for inventory & stock control (retail, hardware stores) and file management tools.
+- 🌱 **Learning & Improving:** Python Web Development (Django), Bash scripting, Relational Database Design (SQL), and clean code practices.
+- ⚡ **Interests:** Linux environments, terminal automation, business software solutions, and data management.
 
 ---
 
